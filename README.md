@@ -1,7 +1,7 @@
 Hey! I am Wilson. Here's sth I've done:
 
 - SWE @ Shopify, Nokia 🌐
-- Currently building Prometheus (https://www.prometheusapps.com/), the world's first Hardware x Software Engineer 🔥
+- Currently building Prometheus (https://www.prometheusapps.com/), the world's first Hardware x Software Engineer + AI CAD Copilot 🔥
 - Leading UWaterloo Humanoid Simulation to build humanoid robots in Isaac Sim 🤖
 - Won Hack the North 2024, Canada's largest hackathon 🏆
 - Built a TVC Model Rocket 🚀
