@@ -1,7 +1,7 @@
 Hey! I am Wilson. Here's sth I've done:
 
 - Currently building Humanoid & Rockets
-- Leading 30+ in building UWaterloo's First Humanoid Robot 🤖 - https://watonomous.github.io/humanoid-docs/index.html
+- Leading 50+ in building Pioneer Humanoid, First Canadian Undergrad-Built Humanoid Robot @ UWaterloo 🤖 - https://watonomous.github.io/humanoid-docs/index.html
 - Built a Thrust Vector Control (TVC) Model Rocket + Working on propulsive landing 🚀
 - AI / SWE @ Shopify, Nokia 🌐
 - Built Prometheus (https://www.prometheusapps.com/), the world's first Hardware x Software Engineer + AI CAD Copilot 🔥
